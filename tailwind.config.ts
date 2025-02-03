@@ -12,6 +12,10 @@ export default {
       colors: {
         background: 'var(--background)',
         foreground: 'var(--foreground)',
+        'gray-light': 'rgba(134, 146, 166, 0.2)',
+      },
+      screens: {
+        'custom-xl': '2560px',
       },
     },
   },

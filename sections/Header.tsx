@@ -1,6 +1,6 @@
 const Header = () => {
   return (
-    <header className='flex items-center justify-between px-6 py-8 '>
+    <header className='container mx-auto flex items-center justify-between px-6 py-8 '>
       {/* Logo */}
       <div className='flex items-center space-x-2'>
         <img src='/images/logo.svg' />
@@ -10,7 +10,7 @@ const Header = () => {
       </div>
 
       {/* Navbar */}
-      <nav className='absolute left-1/2 transform -translate-x-1/2 border border-gray-800 py-[16px] px-[36px] rounded rounded-full'>
+      <nav className='absolute left-1/2 transform -translate-x-1/2 border border-gray-light py-[16px] px-[36px] rounded rounded-full'>
         <ul className='flex space-x-6 text-sm text-[#fafafa]'>
           <li>
             <a href='#' className='hover:text-gray-300 mx-4'>

@@ -1,6 +1,5 @@
 import type { Metadata } from 'next'
 import { Geist, Geist_Mono } from 'next/font/google'
-import localFont from 'next/font/local'
 
 import './globals.css'
 
@@ -13,8 +12,6 @@ const geistMono = Geist_Mono({
   variable: '--font-geist-mono',
   subsets: ['latin'],
 })
-
-const ambit = localFont({ src: '../public/fonts/Ambit-Regular.otf' })
 
 export const metadata: Metadata = {
   title: 'BotBuzz - Landing Page',
@@ -29,7 +26,8 @@ export default function RootLayout({
   return (
     <html lang='en'>
       <body
-        className={`${geistSans.variable} ${geistMono.variable} ${ambit} antialiased bg-black`}
+        className={`${geistSans.variable} ${geistMono.variable} antialiased bg-[#0e0d0d] bg-auto bg-[center_-50px] bg-no-repeat absolute top-0 left-0 w-full`}
+        style={{ backgroundImage: 'url(/images/lines.png)' }}
       >
         {children}
       </body>

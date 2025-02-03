@@ -2,8 +2,19 @@
 @tailwind components;
 @tailwind utilities;
 
+@font-face {
+    font-family: 'Ambit';
+    src: url('/fonts/Ambit-Regular.otf') format('opentype');
+  }
+@font-face {
+    font-family: 'Ambit-Bold';
+    src: url('/fonts/Ambit-Bold.otf') format('opentype');
+}
 
 body {
-font-family: 'Ambit', sans-serif;
+    font-family: 'Ambit', sans-serif;
 }
-  
+
+h1 {
+    font-family: 'Ambit-Bold', sans-serif;
+}

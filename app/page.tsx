@@ -9,7 +9,7 @@ import Footer from '@/sections/Footer'
 
 export default function Home() {
   return (
-    <div className='container mx-auto'>
+    <>
       <Header />
       <Hero />
       <About />
@@ -18,6 +18,6 @@ export default function Home() {
       <FAQ />
       <CTA />
       <Footer />
-    </div>
+    </>
   )
 }
