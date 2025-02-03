@@ -11,13 +11,13 @@ export default function Home() {
   return (
     <div className='container mx-auto'>
       <Header />
-      {/* <Hero />
+      <Hero />
       <About />
       <Features />
       <Pricing />
       <FAQ />
       <CTA />
-      <Footer /> */}
+      <Footer />
     </div>
   )
 }
