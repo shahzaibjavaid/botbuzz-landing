@@ -22,8 +22,8 @@ const Hero = () => {
         </div>
       </div>
       <div
-        className='bg-cover bg-top bg-no-repeat w-full xl:min-h-[800px] custom-xl:min-h-[1100px] '
-        style={{ backgroundImage: 'url(/images/banner.png)' }}
+        className='bg-cover bg-top bg-no-repeat w-full xl:min-h-[780px] custom-xl:min-h-[1050px] '
+        style={{ backgroundImage: 'url(/images/banner.svg)' }}
       ></div>
     </div>
   )
