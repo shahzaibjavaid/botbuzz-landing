@@ -17,6 +17,13 @@ export default {
       screens: {
         'custom-xl': '2560px',
       },
+      container: {
+        center: true,
+        padding: '2rem',
+        screens: {
+          'custom-xl': '1400px',
+        },
+      },
     },
   },
   plugins: [],
