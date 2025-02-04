@@ -8,9 +8,9 @@ const Hero = () => {
           Unlock The Power Of <span className='text-[#7468FC]'>BotBuzz AI</span>{' '}
           With Smartest AI
         </h1>
-        <h6 className='text-[#696f79] text-[18px] py-3'>
+        <p className='text-[#696f79] text-[18px] py-3'>
           Your Personal AI, Tailored for Every Conversation, Anytime, Anywhere
-        </h6>
+        </p>
         <button className='px-[48px] py-[16px] mt-5 rounded-xl text-[#181818] bg-[linear-gradient(to_right,#7468FC,#A7A0F8,#A7A0F8,#7468FC)]'>
           Start Conversation for free
         </button>

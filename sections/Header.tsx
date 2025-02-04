@@ -31,7 +31,7 @@ const Header = () => {
       </nav>
 
       {/* Button */}
-      <button className='px-[20px] py-[4px]  rounded-xl text-[#181818] bg-gradient-to-r from-[#A7A0F8] to-[#A7A0F8]'>
+      <button className='px-[20px] py-[4px] rounded-xl text-[#181818] bg-gradient-to-r from-[#A7A0F8] to-[#A7A0F8]'>
         Get Started
       </button>
     </header>
