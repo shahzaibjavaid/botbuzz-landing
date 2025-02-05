@@ -3,7 +3,7 @@ import React from 'react'
 const CTA = () => {
   return (
     <div className='container mx-auto py-10 mt-10'>
-      <div className='rounded-2xl p-20 text-center text-white bg-gradient-to-b from-[#ffffff05] to-[#ffffff00] shadow-[0px_-2px_5px_rgba(233,217,255,0.3),0px_-2px_40px_rgba(167,160,248,0.15)]'>
+      <div className='rounded-2xl p-20 text-center text-white bg-gradient-to-b from-[#ffffff10] to-[#ffffff00] shadow-[0px_-2px_5px_rgba(233,217,255,0.3),0px_-2px_40px_rgba(167,160,248,0.15)]'>
         <h2 className='font-bold text-[52px] text-[#fafafa]'>
           Join Our Community
         </h2>

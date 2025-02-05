@@ -40,7 +40,7 @@ const Features = () => {
             </li>
           </ul>
         </div>
-        <div className='bg-gradient-to-b from-[#ffffff05] to-[#ffffff00] rounded-3xl'>
+        <div className='bg-gradient-to-b from-[#ffffff10] to-[#ffffff00] rounded-3xl'>
           <img src='/images/feature_1.png' />
         </div>
       </div>
@@ -81,7 +81,7 @@ const Features = () => {
             </li>
           </ul>
         </div>
-        <div className='bg-gradient-to-b from-[#ffffff05] to-[#ffffff00] rounded-3xl'>
+        <div className='bg-gradient-to-b from-[#ffffff10] to-[#ffffff00] rounded-3xl'>
           <img src='/images/feature_2.png' />
         </div>
       </div>

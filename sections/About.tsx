@@ -13,7 +13,7 @@ const About = () => {
         Provide Descriptions, Get Instant AI Generated Content
       </p>
       <div className='py-8 grid grid-cols-3 gap-8 text-white'>
-        <div className='bg-gradient-to-b from-[#ffffff05] to-[#ffffff00] text-center flex flex-col items-center py-12 px-14 border border-gray-light shadow-[0px_-4px_4px_0px_rgba(233,217,255,0.14)] rounded-lg'>
+        <div className='bg-gradient-to-b from-[#ffffff10] to-[#ffffff00] text-center flex flex-col items-center py-12 px-14 border border-gray-light shadow-[0px_-4px_4px_0px_rgba(233,217,255,0.14)] rounded-lg'>
           <img src='/images/vital_signs.svg' className='' />
           <h3 className='text-xl font-semibold mt-5 text-[#fafafa]'>
             Effortless Content AI
@@ -23,7 +23,7 @@ const About = () => {
             creation. Get started today with AI.
           </p>
         </div>
-        <div className='bg-gradient-to-b from-[#ffffff05] to-[#ffffff00] text-center flex flex-col items-center py-12 px-14 border border-gray-light shadow-[0px_-4px_4px_0px_rgba(233,217,255,0.14)] rounded-lg'>
+        <div className='bg-gradient-to-b from-[#ffffff10] to-[#ffffff00] text-center flex flex-col items-center py-12 px-14 border border-gray-light shadow-[0px_-4px_4px_0px_rgba(233,217,255,0.14)] rounded-lg'>
           <img src='/images/web.svg' className='' />
           <h3 className='text-xl font-semibold mt-5 text-[#fafafa]'>
             Real Time Web References
@@ -33,7 +33,7 @@ const About = () => {
             with Ai-Con.
           </p>
         </div>
-        <div className='bg-gradient-to-b from-[#ffffff05] to-[#ffffff00] text-center flex flex-col items-center py-12 px-14 border border-gray-light shadow-[0px_-4px_4px_0px_rgba(233,217,255,0.14)] rounded-lg'>
+        <div className='bg-gradient-to-b from-[#ffffff10] to-[#ffffff00] text-center flex flex-col items-center py-12 px-14 border border-gray-light shadow-[0px_-4px_4px_0px_rgba(233,217,255,0.14)] rounded-lg'>
           <img src='/images/automation.svg' className='' />
           <h3 className='text-xl font-semibold mt-5 text-[#fafafa]'>
             Emotional Intelligence
@@ -43,7 +43,7 @@ const About = () => {
             conversations more meaningful.
           </p>
         </div>
-        <div className='bg-gradient-to-b from-[#ffffff05] to-[#ffffff00] text-center flex flex-col items-center py-12 px-14 border border-gray-light shadow-[0px_-4px_4px_0px_rgba(233,217,255,0.14)] rounded-lg'>
+        <div className='bg-gradient-to-b from-[#ffffff10] to-[#ffffff00] text-center flex flex-col items-center py-12 px-14 border border-gray-light shadow-[0px_-4px_4px_0px_rgba(233,217,255,0.14)] rounded-lg'>
           <img src='/images/group.svg' className='' />
           <h3 className='text-xl font-semibold mt-5 text-[#fafafa]'>
             Multiple Personalities
@@ -53,7 +53,7 @@ const About = () => {
             as a Explorer, Sage and etc.
           </p>
         </div>
-        <div className='bg-gradient-to-b from-[#ffffff05] to-[#ffffff00] text-center flex flex-col items-center py-12 px-14 border border-gray-light shadow-[0px_-4px_4px_0px_rgba(233,217,255,0.14)] rounded-lg'>
+        <div className='bg-gradient-to-b from-[#ffffff10] to-[#ffffff00] text-center flex flex-col items-center py-12 px-14 border border-gray-light shadow-[0px_-4px_4px_0px_rgba(233,217,255,0.14)] rounded-lg'>
           <img src='/images/autorenew.svg' className='' />
           <h3 className='text-xl font-semibold mt-5 text-[#fafafa]'>
             Dynamic Suggestions
@@ -63,7 +63,7 @@ const About = () => {
             and previous conversations.
           </p>
         </div>
-        <div className='bg-gradient-to-b from-[#ffffff05] to-[#ffffff00] text-center flex flex-col items-center py-12 px-14 border border-gray-light shadow-[0px_-4px_4px_0px_rgba(233,217,255,0.14)] rounded-lg'>
+        <div className='bg-gradient-to-b from-[#ffffff10] to-[#ffffff00] text-center flex flex-col items-center py-12 px-14 border border-gray-light shadow-[0px_-4px_4px_0px_rgba(233,217,255,0.14)] rounded-lg'>
           <img src='/images/cast.svg' className='' />
           <h3 className='text-xl font-semibold mt-5 text-[#fafafa]'>
             Personalized Responses
