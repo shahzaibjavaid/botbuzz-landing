@@ -1,6 +1,6 @@
 'use client'
 import { useState } from 'react'
-import { HiMiniArrowDownLeft } from 'react-icons/hi2'
+import { HiMiniArrowUpRight } from 'react-icons/hi2'
 
 const faqs = [
   {
@@ -64,7 +64,7 @@ const FAQ = () => {
                 <span className='text-lg font-bold'>0{index + 1}</span>
                 <span className='text-lg font-semibold'>{faq.question}</span>
               </div>
-              <HiMiniArrowDownLeft
+              <HiMiniArrowUpRight
                 className={`transition-transform duration-500 text-[#8692a6] border border-[#8692a6] w-9 h-9 p-2 rounded-full ${
                   activeIndex === index ? 'rotate-180' : 'rotate-0'
                 }`}
