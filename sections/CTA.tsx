@@ -13,9 +13,12 @@ const CTA = () => {
           stories, exchange tips, and discover new ways to maximize your Ai-Con
           experience.
         </p>
-        <button className='border border-[#fafafa] text-[#fafafa] rounded-xl py-2 px-7 mt-3'>
+        <a
+          href='#'
+          className='inline-block border border-[#fafafa] text-[#fafafa] rounded-xl py-2 px-7 mt-3'
+        >
           Join Community
-        </button>
+        </a>
       </div>
     </div>
   )
